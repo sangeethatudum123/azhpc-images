@@ -2,8 +2,8 @@
 set -ex
 
 # install pre-requisites
-chmod 755 ./install_prerequisites.sh
-./install_prerequisites.sh
+#chmod 755 ./install_prerequisites.sh
+#./install_prerequisites.sh
 
 # set properties
 source ./set_properties.sh
