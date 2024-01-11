@@ -1,7 +1,7 @@
 {
     "spack": {
         "ubuntu20.04": {
-            "branch": "releases/v0.19"
+            "branch": "develop"
         },
         "ubuntu22.04": {
             "branch": "develop"
